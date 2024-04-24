@@ -4,7 +4,7 @@ $servername = "localhost";
 $username = "root";
 $password = ""; // Default Password: Blank | Empty
 
-$database_name = "db_test"; 
+$database_name = "db_students"; 
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database_name);
